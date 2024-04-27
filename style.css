@@ -1,0 +1,14 @@
+.error {
+    color: red;
+  }
+  .success {
+    color: green;
+  }
+  input{
+    margin-bottom: 20px;
+    border-radius: 2px;
+    margin-left: 10px;
+  }
+  button{
+    padding: 5px;
+  }
